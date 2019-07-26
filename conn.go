@@ -5,7 +5,7 @@ import (
 	"net"
 	"time"
 
-	"github.com/pubnative/mysqlproto-go"
+	"github.com/fhartwig/mysqlproto-go"
 )
 
 var capabilityFlags = mysqlproto.CLIENT_LONG_PASSWORD |

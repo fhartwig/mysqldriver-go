@@ -3,7 +3,7 @@ package mysqldriver
 import (
 	"fmt"
 
-	"github.com/pubnative/mysqlproto-go"
+	"github.com/fhartwig/mysqlproto-go"
 )
 
 func handleOK(payload []byte, capabilityFlags uint32) error {

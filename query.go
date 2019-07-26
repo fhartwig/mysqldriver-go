@@ -3,7 +3,7 @@ package mysqldriver
 import (
 	"strconv"
 
-	"github.com/pubnative/mysqlproto-go"
+	"github.com/fhartwig/mysqlproto-go"
 )
 
 // Rows represents result set of SELECT query
